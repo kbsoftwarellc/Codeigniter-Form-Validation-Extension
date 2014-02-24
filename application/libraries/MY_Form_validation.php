@@ -13,6 +13,14 @@ class MY_Form_validation extends CI_Form_validation {
 
     /**
      * Error Count
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
      *
      * Returns the the number of errors
      *
